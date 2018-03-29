@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  CustomerHeadView.h
 //  sectionHeaderTest
 //
-//  Created by ytz on 2018/1/18.
+//  Created by ytz on 2018/2/1.
 //  Copyright © 2018年 ytz. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CustomerHeadView : UITableViewHeaderFooterView
 
 @end
-
