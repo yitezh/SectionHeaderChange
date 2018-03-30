@@ -1,2 +1,2 @@
 # SectionHeaderChange
-简单实现滑动Tableview改变sectionHeader状态。
+滑动Tableview改变sectionHeader状态。（类似微信通讯录组头效果）
